@@ -13,7 +13,7 @@ var searchData=
   ['showstartstory_10',['showStartStory',['../class_story_board_control.html#a260f38fdf13fd6cdce70f7edb2b1a2f2',1,'StoryBoardControl']]],
   ['sliders_11',['sliders',['../class_input_manager.html#a34ffe026aafe6040349e09b10b2779ca',1,'InputManager']]],
   ['slidertexts_12',['sliderTexts',['../class_input_manager.html#a135801056ff4c9bd7b25079ea4346eeb',1,'InputManager']]],
-  ['slotnumber_13',['slotNumber',['../class_item_slot_data.html#a85af973400574c6cb9b1e5a86021d79e',1,'ItemSlotData.slotNumber()'],['../class_item_slot.html#ab3056d2451c4be38c7db9d822cc57a8e',1,'ItemSlot.slotNumber()']]],
+  ['slotnumber_13',['slotNumber',['../class_inventory___system_1_1_inventory___u_i_1_1_item_slot_data.html#af03ed5cf661d45ad09ee4e57ec8da138',1,'Inventory_System.Inventory_UI.ItemSlotData.slotNumber()'],['../class_inventory___system_1_1_inventory___u_i_1_1_item_slot.html#ac31da3124a2c5f86d3901abb710dcff2',1,'Inventory_System.Inventory_UI.ItemSlot.slotNumber()']]],
   ['sounds_14',['sounds',['../class_audio_manager.html#a7e373203a7996b66ca341a6794928f83',1,'AudioManager']]],
   ['source_15',['source',['../class_game_sounds.html#a8c1eb790f0612bc5948af643dd737690',1,'GameSounds']]],
   ['southpoint_16',['southPoint',['../class_connection_points.html#aa704125c0b06cb1cae1e9c7c253a02fd',1,'ConnectionPoints']]],

@@ -12,8 +12,8 @@ var searchData=
   ['item_9',['Item',['../class_inventory___system_1_1_item.html',1,'Inventory_System']]],
   ['itemplacer_10',['ItemPlacer',['../class_item_placer.html',1,'']]],
   ['itemrow_11',['itemRow',['../struct_recepies_1_1item_row.html',1,'Recepies']]],
-  ['itemslot_12',['ItemSlot',['../class_item_slot.html',1,'']]],
-  ['itemslotdata_13',['ItemSlotData',['../class_item_slot_data.html',1,'']]],
+  ['itemslot_12',['ItemSlot',['../class_inventory___system_1_1_inventory___u_i_1_1_item_slot.html',1,'Inventory_System::Inventory_UI']]],
+  ['itemslotdata_13',['ItemSlotData',['../class_inventory___system_1_1_inventory___u_i_1_1_item_slot_data.html',1,'Inventory_System::Inventory_UI']]],
   ['itemvain_14',['ItemVain',['../class_craft___system_1_1_item_vain.html',1,'Craft_System']]],
   ['iuseitem_15',['IUseItem',['../interface_c_b___interfaces_1_1_i_use_item.html',1,'CB_Interfaces']]],
   ['ivalidate_16',['IValidate',['../interface_c_b___interfaces_1_1_i_validate.html',1,'CB_Interfaces']]]

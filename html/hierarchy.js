@@ -43,7 +43,7 @@ var hierarchy =
       [ "MainTableController", "class_main_table_controller.html", null ]
     ] ],
     [ "Recepies.itemRow", "struct_recepies_1_1item_row.html", null ],
-    [ "ItemSlotData", "class_item_slot_data.html", null ],
+    [ "Inventory_System.Inventory_UI.ItemSlotData", "class_inventory___system_1_1_inventory___u_i_1_1_item_slot_data.html", null ],
     [ "CB_Interfaces.IUseItem", "interface_c_b___interfaces_1_1_i_use_item.html", [
       [ "CB_Puzzles.CheckActivator", "class_c_b___puzzles_1_1_check_activator.html", null ],
       [ "CB_Puzzles.InteractButton", "class_c_b___puzzles_1_1_interact_button.html", null ],
@@ -113,11 +113,11 @@ var hierarchy =
       [ "Inventory_System.InventorySelector", "class_inventory___system_1_1_inventory_selector.html", null ],
       [ "Inventory_System.Inventory_UI.DraggableComponent", "class_inventory___system_1_1_inventory___u_i_1_1_draggable_component.html", null ],
       [ "Inventory_System.Inventory_UI.DropItemSlot", "class_inventory___system_1_1_inventory___u_i_1_1_drop_item_slot.html", null ],
+      [ "Inventory_System.Inventory_UI.ItemSlot", "class_inventory___system_1_1_inventory___u_i_1_1_item_slot.html", null ],
       [ "Inventory_System.Inventory_UI.MaterialManagerButton", "class_inventory___system_1_1_inventory___u_i_1_1_material_manager_button.html", null ],
       [ "Inventory_System.Item", "class_inventory___system_1_1_item.html", null ],
       [ "Inventory_System.MaterialsManager", "class_inventory___system_1_1_materials_manager.html", null ],
       [ "ItemPlacer", "class_item_placer.html", null ],
-      [ "ItemSlot", "class_item_slot.html", null ],
       [ "LoadFile", "class_load_file.html", null ],
       [ "Look", "class_look.html", null ],
       [ "LookTowardsPlayer", "class_look_towards_player.html", null ],

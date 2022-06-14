@@ -31,6 +31,8 @@ var annotated_dup =
       [ "Inventory_UI", "namespace_inventory___system_1_1_inventory___u_i.html", [
         [ "DraggableComponent", "class_inventory___system_1_1_inventory___u_i_1_1_draggable_component.html", "class_inventory___system_1_1_inventory___u_i_1_1_draggable_component" ],
         [ "DropItemSlot", "class_inventory___system_1_1_inventory___u_i_1_1_drop_item_slot.html", "class_inventory___system_1_1_inventory___u_i_1_1_drop_item_slot" ],
+        [ "ItemSlot", "class_inventory___system_1_1_inventory___u_i_1_1_item_slot.html", "class_inventory___system_1_1_inventory___u_i_1_1_item_slot" ],
+        [ "ItemSlotData", "class_inventory___system_1_1_inventory___u_i_1_1_item_slot_data.html", "class_inventory___system_1_1_inventory___u_i_1_1_item_slot_data" ],
         [ "MaterialManagerButton", "class_inventory___system_1_1_inventory___u_i_1_1_material_manager_button.html", "class_inventory___system_1_1_inventory___u_i_1_1_material_manager_button" ]
       ] ],
       [ "InventoryManager", "class_inventory___system_1_1_inventory_manager.html", "class_inventory___system_1_1_inventory_manager" ],
@@ -91,8 +93,6 @@ var annotated_dup =
     [ "InputManagerConstruction", "class_input_manager_construction.html", "class_input_manager_construction" ],
     [ "InventorySelectionUI", "class_inventory_selection_u_i.html", "class_inventory_selection_u_i" ],
     [ "ItemPlacer", "class_item_placer.html", "class_item_placer" ],
-    [ "ItemSlot", "class_item_slot.html", "class_item_slot" ],
-    [ "ItemSlotData", "class_item_slot_data.html", "class_item_slot_data" ],
     [ "Line", "struct_line.html", "struct_line" ],
     [ "LoadFile", "class_load_file.html", null ],
     [ "Look", "class_look.html", "class_look" ],

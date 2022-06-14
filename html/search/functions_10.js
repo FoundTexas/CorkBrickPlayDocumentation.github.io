@@ -23,7 +23,7 @@ var searchData=
   ['setdraggablecomponent_20',['SetDraggableComponent',['../class_inventory___system_1_1_inventory___u_i_1_1_draggable_component.html#a761bae0abacf475eeb3bed18a8432283',1,'Inventory_System::Inventory_UI::DraggableComponent']]],
   ['sethighlighted_21',['SetHighlighted',['../class_challenge_table_view_cell.html#ae09a7383c3f0616d8de47e09832bd2ad',1,'ChallengeTableViewCell']]],
   ['setindex_22',['SetIndex',['../class_animation_control.html#a7ff687aa1ded8c507e72d8f5b9137bda',1,'AnimationControl.SetIndex()'],['../class_inventory___system_1_1_inventory_selector.html#a699156564ea0a2c2283709600f3cabbf',1,'Inventory_System.InventorySelector.SetIndex()'],['../class_craft___system_1_1_legacy_craft_station.html#a381d35443773bc7316e5324022a2b090',1,'Craft_System.LegacyCraftStation.SetIndex()']]],
-  ['setitem_23',['SetItem',['../class_item_slot.html#afe91c36e89b4ca3be42deb885b2998f2',1,'ItemSlot']]],
+  ['setitem_23',['SetItem',['../class_inventory___system_1_1_inventory___u_i_1_1_item_slot.html#a862a405871da2048d0c03dcd2cee76e5',1,'Inventory_System::Inventory_UI::ItemSlot']]],
   ['setmode_24',['SetMode',['../class_scene_m.html#a0576fbd28012d18bf89cdbeb0d50ccd7',1,'SceneM.SetMode()'],['../class_game_manager.html#a753d59c40904bc2ac0f6754b43fa9e54',1,'GameManager.SetMode()'],['../class_scene_loader.html#a6600d1664db166be04987ea2580a3174',1,'SceneLoader.SetMode()']]],
   ['setprecise_25',['SetPrecise',['../class_settings.html#aaee457fd4af701b72125a1090f9f65a5',1,'Settings']]],
   ['setrender_26',['SetRender',['../class_render_object.html#ae9ce33b709b143198ee9bc669d9d98cd',1,'RenderObject']]],
