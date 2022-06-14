@@ -56,8 +56,8 @@ var NAVTREEINDEX =
 "class_buoyancy.html#a150c7eef59e8dafbd24c4c84daa8a5d6",
 "class_cube_placer.html#aa0a198b56569322806635fe994ddf747",
 "class_inventory___system_1_1_materials_manager.html#a14f84890fb0fc24f999efd4f04b9dca0",
-"class_speaker_u_i.html#a3543675e3005e971108c593a1beb6d69",
-"struct_recepies_1_1item_row.html#a617aa5829ba134818a3ebca82e42dfb9"
+"class_speaker_u_i.html#a0af3ecafa022d505aac51f832fa14c0c",
+"struct_ray_result.html#af8bed6d3a24164e879b899293af16f98"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

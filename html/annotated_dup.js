@@ -41,7 +41,8 @@ var annotated_dup =
       [ "MaterialsManager", "class_inventory___system_1_1_materials_manager.html", "class_inventory___system_1_1_materials_manager" ]
     ] ],
     [ "Optimization_Module", "namespace_optimization___module.html", [
-      [ "RadarVFC", "class_optimization___module_1_1_radar_v_f_c.html", "class_optimization___module_1_1_radar_v_f_c" ]
+      [ "RadarVFC", "class_optimization___module_1_1_radar_v_f_c.html", "class_optimization___module_1_1_radar_v_f_c" ],
+      [ "RenderObject", "class_optimization___module_1_1_render_object.html", "class_optimization___module_1_1_render_object" ]
     ] ],
     [ "UnityTemplateProjects", "namespace_unity_template_projects.html", [
       [ "SimpleCameraController", "class_unity_template_projects_1_1_simple_camera_controller.html", "class_unity_template_projects_1_1_simple_camera_controller" ]
@@ -119,7 +120,6 @@ var annotated_dup =
     [ "Recepi", "class_recepi.html", "class_recepi" ],
     [ "recepidata", "classrecepidata.html", "classrecepidata" ],
     [ "Recepies", "class_recepies.html", "class_recepies" ],
-    [ "RenderObject", "class_render_object.html", "class_render_object" ],
     [ "SavedObject", "class_saved_object.html", "class_saved_object" ],
     [ "SavedPlayer", "class_saved_player.html", "class_saved_player" ],
     [ "SaveSystem", "class_save_system.html", "class_save_system" ],

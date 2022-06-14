@@ -44,7 +44,7 @@ var searchData=
   ['setitem_41',['SetItem',['../class_inventory___system_1_1_inventory___u_i_1_1_item_slot.html#a862a405871da2048d0c03dcd2cee76e5',1,'Inventory_System::Inventory_UI::ItemSlot']]],
   ['setmode_42',['SetMode',['../class_scene_m.html#a0576fbd28012d18bf89cdbeb0d50ccd7',1,'SceneM.SetMode()'],['../class_game_manager.html#a753d59c40904bc2ac0f6754b43fa9e54',1,'GameManager.SetMode()'],['../class_scene_loader.html#a6600d1664db166be04987ea2580a3174',1,'SceneLoader.SetMode()']]],
   ['setprecise_43',['SetPrecise',['../class_settings.html#aaee457fd4af701b72125a1090f9f65a5',1,'Settings']]],
-  ['setrender_44',['SetRender',['../class_render_object.html#ae9ce33b709b143198ee9bc669d9d98cd',1,'RenderObject']]],
+  ['setrender_44',['SetRender',['../class_optimization___module_1_1_render_object.html#a32ba434f8f1f9a06931d04544f80b939',1,'Optimization_Module::RenderObject']]],
   ['setsavedbuild_45',['SetSavedBuild',['../class_c_b___scanner_1_1_scaned_build.html#aef43d7c4db8329bc1f6597368c557145',1,'CB_Scanner::ScanedBuild']]],
   ['setselected_46',['SetSelected',['../class_challenge_table_view_cell.html#a47607f0eb53df3353f6b2e57b6a1d228',1,'ChallengeTableViewCell']]],
   ['setsens_47',['setSens',['../class_look.html#aee20869996e2401f2db18ce9a24f3471',1,'Look']]],

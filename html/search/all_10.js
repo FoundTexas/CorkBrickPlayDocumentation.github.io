@@ -17,7 +17,7 @@ var searchData=
   ['removeitem_14',['RemoveItem',['../class_optimization___module_1_1_radar_v_f_c.html#a9f55328a9d39d663a33343a4c314d23f',1,'Optimization_Module::RadarVFC']]],
   ['removesceneobj_15',['RemoveSceneObj',['../class_optimization___module_1_1_radar_v_f_c.html#adf494a05dcd88a1227cabdbf59db6ff0',1,'Optimization_Module::RadarVFC']]],
   ['renderdistance_16',['renderDistance',['../class_optimization___module_1_1_radar_v_f_c.html#a046ff4a847110362367eb7162d5db965',1,'Optimization_Module::RadarVFC']]],
-  ['renderobject_17',['RenderObject',['../class_render_object.html',1,'']]],
+  ['renderobject_17',['RenderObject',['../class_optimization___module_1_1_render_object.html',1,'Optimization_Module']]],
   ['renderobject_2ecs_18',['RenderObject.cs',['../_render_object_8cs.html',1,'']]],
   ['reset_19',['Reset',['../class_brick_properties.html#a350bf9705748ee8098aebe452dcced98',1,'BrickProperties']]],
   ['resetoffsetnormal_20',['ResetoffsetNormal',['../class_building___system_1_1_preview.html#a82b595699c586a14e2ee7d4c897218e3',1,'Building_System::Preview']]],
