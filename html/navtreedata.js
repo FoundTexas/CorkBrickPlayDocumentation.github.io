@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "My Project", "index.html", [
+  [ "Crorbrick Play", "index.html", [
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ]
     ] ],
@@ -55,9 +55,8 @@ var NAVTREEINDEX =
 "_animation_control_8cs.html",
 "class_buoyancy.html#a150c7eef59e8dafbd24c4c84daa8a5d6",
 "class_cube_placer.html#aa0a198b56569322806635fe994ddf747",
-"class_item_slot.html#afe91c36e89b4ca3be42deb885b2998f2",
-"class_speaker_u_i.html#a910d361eb6605df7d8aa8202a7b62305",
-"underwater_8cs.html"
+"class_item_slot_data.html#a504859c83cacbb7dc2ace94c37bbef59",
+"class_speaker_u_i.html#abafdf364e20887ae1a929389b1f8b182"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
